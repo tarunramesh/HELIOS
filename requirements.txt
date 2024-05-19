@@ -1,0 +1,12 @@
+torch
+streamlit
+ultralytics
+pillow
+python-dotenv
+python-telegram-bot
+telegram
+folium
+pandas
+streamlit_drawable_canvas
+streamlit_js_eval
+streamlit_folium
